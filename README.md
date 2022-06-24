@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bytonic</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Developer)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?size=21&color=F73D93&lines=Developer" />
 <hr>
 
 
