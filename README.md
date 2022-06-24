@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bytonic</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Developer"></a>
 </p>
 
 
