@@ -8,4 +8,4 @@
 <hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bytonic&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytonic&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytonic&layout=compact&theme=tokyonight)]
