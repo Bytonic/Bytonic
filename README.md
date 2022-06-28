@@ -8,5 +8,5 @@
 <hr>
 <div>
 <img height="100%"  src="https://github-readme-stats.vercel.app/api?username=bytonic&show_icons=true&theme=tokyonight" />  
-<img height="100%" width="47%" src= https://github-readme-stats.vercel.app/api/top-langs/?username=Bytonic&layout=compact&theme=tokyonight />
+<img height="100%" width="49%" src= https://github-readme-stats.vercel.app/api/top-langs/?username=Bytonic&layout=compact&theme=tokyonight />
 </div>
