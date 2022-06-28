@@ -11,7 +11,5 @@
 
 
 <hr>
-<div>
 <img height="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=bytonic&show_icons=true&theme=tokyonight" />  
 <img height="100%" align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Bytonic&layout=compact&theme=tokyonight" />
-</div>
